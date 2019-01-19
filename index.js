@@ -18,7 +18,7 @@ function add2(n) {
   // Feel free to move things around!
 }
 
-function funkyFunction() {
+function funkyFunction(string) {
    return function() {
     return "FUNKY!"
   }
